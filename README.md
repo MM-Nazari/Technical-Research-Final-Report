@@ -56,4 +56,3 @@ Understanding the evolution of Wi-Fi security protocols is essential for anyone 
 ## References
 - [IEEE 802.11 Standards](https://www.ieee.org/)
 - [Wi-Fi Alliance](https://www.wi-fi.org/)
-- Research papers and articles on wireless security protocols.
