@@ -1,9 +1,6 @@
 
 # Wi-Fi Security Protocols: WEP, WPA, and WPA2
 
-## Introduction
-This repository contains a detailed report on the evolution and technical aspects of Wi-Fi security protocols, specifically focusing on WEP, WPA, and WPA2. These protocols are crucial in protecting wireless networks from unauthorized access and ensuring data security. The detailed report is in [Report](./Report-Research-9931061-Justified.pdf) 
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [WEP (Wired Equivalent Privacy)](#wep-wired-equivalent-privacy)
@@ -12,6 +9,9 @@ This repository contains a detailed report on the evolution and technical aspect
 - [Comparison of Protocols](#comparison-of-protocols)
 - [Conclusion](#conclusion)
 - [References](#references)
+
+## Introduction
+This repository contains a detailed report on the evolution and technical aspects of Wi-Fi security protocols, specifically focusing on WEP, WPA, and WPA2. These protocols are crucial in protecting wireless networks from unauthorized access and ensuring data security. The detailed report is in [Report](./Report-Research-9931061-Justified.pdf) 
 
 ## WEP (Wired Equivalent Privacy)
 WEP was the first security protocol introduced in 1999 as part of the original IEEE 802.11 standard. It was designed to provide the same level of security as wired networks by encrypting data transmitted over the wireless network. However, WEP has several vulnerabilities:
